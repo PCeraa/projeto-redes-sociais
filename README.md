@@ -21,7 +21,7 @@ The project consists of a simple screen developed with HTML and CSS, featuring a
 
 ## 💻 Preview <a href="https://pceraa.github.io/preview-card-component/" target="_blank">🔗</a>
 
-![alt text](image.png)
+
 
 ## 📃 License 
 
