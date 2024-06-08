@@ -42,6 +42,10 @@ iframe#tela {
     height: 471px;
 }
 
+iframe {
+    overflow: auto;
+}
+
 .icons {
     margin: 5px;
     text-align: right;
@@ -62,3 +66,4 @@ iframe#tela {
     transform: translateY(-5px) rotate(5deg);
     transition: transform 0.5s ease;
 }
+
