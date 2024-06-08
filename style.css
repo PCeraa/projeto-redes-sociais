@@ -24,9 +24,10 @@ main {
 }
 
 .cell {
+    scale: 0.8;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 37%;
+    left: 45%;
     transform: translate(-50%, -50%);
     height: 630px;
     width: 311px;
