@@ -56,8 +56,3 @@ iframe#tela {
     height: 50px;
     margin: 3px;
 }
-
-section > .icons:hover {
-    transition: transform 0.3s ease;
-    transform: translateY(-5px) translateX(-5px); 
-}
